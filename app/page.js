@@ -39,14 +39,14 @@ export default function Portfolio() {
       liveLink: null
     },
     {
-      //title: "Famsec.",
-      //description: "SaaS platform using GPT-4 API to generate marketing copy and blog posts.",
-      tags: ["Next.js", "TypeScript"],
-      type: "Frontend Development",
-      image: "/Screenshot 2026-02-20 171340.png",
+      //title: "Interior Design",
+      //description: "Full-stack online store with real-time inventory, payment integration, and admin dashboard.",
+      tags: ["PowerBI", "DAX", "UI"],
+      type: "Data Analysis",
+      image: "/Screenshot 2026-03-10 012416.png",
       demoLink: null,
-      codeLink: "https://github.com/Samdejii/chilld",
-      liveLink: "https://rnext.netlify.app/"
+      codeLink: "https://github.com/Samdejii/Sales-Performance-Dashboard",
+      liveLink: null
     },
     {
       //title: "Previous Portfolio",
@@ -59,14 +59,14 @@ export default function Portfolio() {
       liveLink: "https://adesam-portfolio.netlify.app/"
     },
     {
-      //title: "Interior Design",
-      //description: "Full-stack online store with real-time inventory, payment integration, and admin dashboard.",
-      tags: ["HTML", "CSS", "Bootstrap"],
+      //title: "Famsec.",
+      //description: "SaaS platform using GPT-4 API to generate marketing copy and blog posts.",
+      tags: ["Next.js", "TypeScript"],
       type: "Frontend Development",
-      image: "/Screenshot 2026-02-20 171402.png",
+      image: "/Screenshot 2026-02-20 171340.png",
       demoLink: null,
-      codeLink: "https://github.com/Samdejii/Interior",
-      liveLink: "https://silly-spence-0a4019.netlify.app/"
+      codeLink: "https://github.com/Samdejii/chilld",
+      liveLink: "https://rnext.netlify.app/"
     },
     {
       //title: "Global Missions Board",
